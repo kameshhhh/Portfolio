@@ -1,4 +1,4 @@
-const BASE = 'kamesh-git-main-kamesh-ds-projects.vercel.app';
+const BASE = 'https://portfolio-production-897d.up.railway.app';
 
 async function handle(res) {
   const contentType = res.headers.get('content-type') || '';
