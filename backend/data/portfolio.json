@@ -1,0 +1,161 @@
+{
+  "profile": {
+    "name": "Kamesh",
+    "title": "Product-Focused Full-Stack Builder",
+    "tagline": "Designs from user behaviour and workflow constraints first; writes code second.",
+    "summary": "Product-focused builder with experience shipping full-stack systems under real constraints. Comfortable balancing usability, speed, and implementation constraints during product iteration. Refined workflows based on observed user friction during demos and testing sessions. Strongest in products where reducing friction, speed of iteration, and practical usability matter more than engineering complexity.",
+    "email": "kameshstu@gmail.com",
+    "phone": "9842483205",
+    "linkedin": "linkedin.com/in/kamesh-tom",
+    "github": "github.com/kameshhhh",
+    "education_line": "B.E. Mechatronics · Bannari Amman Institute of Technology · 2023–2027",
+    "photoUrl": ""
+  },
+  "skills": {
+    "Product": [
+      "User flow mapping",
+      "UX decision-making",
+      "Scope definition",
+      "MVP prioritization",
+      "Feature trade-offs"
+    ],
+    "AI Workflow": [
+      "Claude",
+      "Cursor",
+      "Copilot",
+      "Lovable",
+      "Rapid prototyping",
+      "Debugging",
+      "UI generation",
+      "Workflow automation",
+      "MVP iteration"
+    ],
+    "Design": [
+      "Figma (read & implement files)",
+      "Mobile-first layouts",
+      "Simplified user flows"
+    ],
+    "Dev Stack": [
+      "React.js",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Socket.io",
+      "JWT",
+      "Google OAuth 2.0",
+      "REST API"
+    ],
+    "Languages": [
+      "JavaScript",
+      "C",
+      "C++",
+      "Java",
+      "SQL"
+    ]
+  },
+  "projects": [
+    {
+      "id": "p1",
+      "title": "NFC → WhatsApp Real-Time Feedback & Service Booking",
+      "meta": "Product + Full-Stack · NFC Tags · WhatsApp Business API · Node.js · Webhooks",
+      "year": "2025",
+      "problem": "Users abandon feedback forms because they require app downloads and registration.",
+      "flow": "Mapped the full journey (physical tap to webhook trigger to conversation flow to backend action) before writing any code. Designed for cross-vertical reuse across restaurants, hospitals, and service counters.",
+      "outcome": "Removed all three friction steps so users tap an NFC tag and land directly in a WhatsApp conversation with zero installs and zero onboarding. Reduced interaction flow from 6 steps to 1. Tested across two live service environments.",
+      "images": []
+    },
+    {
+      "id": "p2",
+      "title": "Hybrid Learning Management System",
+      "meta": "Product + Full-Stack · React.js · Node.js · PostgreSQL · Secure Browser Engine",
+      "year": "2026 – Present",
+      "problem": "Online assessments allow rampant cheating; most LMS platforms do not gate exams behind real skill progress.",
+      "flow": "Slot-booking tied to progress gates required mapping full user states, retry logic, and backend state transitions before any UI was built. Prioritized mobile-first flow throughout.",
+      "outcome": "Built a course platform where assessments unlock only after defined completion milestones. Designed a tamper-resistant exam layer: restricted copy-paste, tab-switching, and common cheating behaviours. Randomized question delivery from a 10,000+ question bank so no two students receive the same paper.",
+      "images": []
+    },
+    {
+      "id": "p3",
+      "title": "Scarcity-Based Multi-Entity Evaluation Platform",
+      "meta": "Product Design + Full-Stack · React.js · Node.js · PostgreSQL",
+      "year": "2026 – Present",
+      "problem": "Score inflation in peer and faculty evaluation makes lazy or inflated scoring common.",
+      "flow": "Wrote a full product spec (SRS) before writing any code: scoped evaluation heads, scoring modes, anti-collusion logic, and monthly review cycles.",
+      "outcome": "Designed a platform that forces evaluators to distribute a fixed point pool. Supports five entity types. Evaluators with historically consistent judgment carry more influence over outcomes. Currently in active build.",
+      "images": []
+    },
+    {
+      "id": "p4",
+      "title": "DriveX — On-Demand Driver & Mechanic Booking",
+      "meta": "Hackathon Build · React.js · Node.js · PostgreSQL · Google Maps API · JWT",
+      "year": "Innovators Hackathon 2026",
+      "problem": "Riders and drivers need instant, reliable matching for emergency and scheduled vehicle service.",
+      "flow": "Defined the emergency vs. scheduled booking split, driver certification flow, and session handling as user journey constraints before writing any code.",
+      "outcome": "Scoped, designed, and shipped a mobile-responsive booking platform with real-time GPS tracking in a single overnight session. Working demo delivered within the hackathon window; selected for the final presentation round.",
+      "images": []
+    },
+    {
+      "id": "p5",
+      "title": "CyberShield EMS — Environmental Monitoring for GMP Facilities",
+      "meta": "React.js · Node.js · PostgreSQL · Socket.io · Encrypted Pipeline",
+      "year": "Israel–India Global Innovators Hackathon 2026",
+      "problem": "Pharmaceutical GMP facilities need continuous, tamper-proof environmental compliance monitoring.",
+      "flow": "Treated compliance requirements as product constraints from day one: defined data retention rules and alert thresholds before the UI.",
+      "outcome": "Designed for real-time tracking of temperature, humidity, and air quality with encrypted transmission, anomaly detection, audit logging, and tamper-proof storage. Selected at a national-level offline hackathon for real-world compliance applicability.",
+      "images": []
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h1",
+      "name": "Israel–India Global Innovators Hackathon 2026",
+      "note": "National, Offline — CyberShield EMS"
+    },
+    {
+      "id": "h2",
+      "name": "Innovators Hackathon 2026",
+      "note": "Offline — DriveX platform"
+    },
+    {
+      "id": "h3",
+      "name": "Multiple college-level events",
+      "note": "Solo rapid-build projects using AI-assisted workflows"
+    }
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "school": "B.E. Mechatronics Engineering · Bannari Amman Institute of Technology",
+      "detail": "CGPA: 6.93 · Sathyamangalam, Erode",
+      "years": "2023 – 2027"
+    },
+    {
+      "id": "e2",
+      "school": "Higher Secondary · Vishwesvaraiyah HSS, Thoppur",
+      "detail": "Percentage: 69.33%",
+      "years": "2021 – 2023"
+    },
+    {
+      "id": "e3",
+      "school": "Higher School Education · Vishwesvaraiyah HSS, Thoppur",
+      "detail": "Percentage: Pass",
+      "years": "2016 – 2021"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c1",
+      "name": "Mobile App & Web Development",
+      "issuer": "Bharathidasan University (SUITS Scheme)",
+      "grade": "First Class with Distinction",
+      "date": "Feb 2020"
+    },
+    {
+      "id": "c2",
+      "name": "C Programming",
+      "issuer": "Bharathidasan University (SUITS Scheme)",
+      "grade": "First Class with Exemplary",
+      "date": "Feb 2019"
+    }
+  ]
+}
